@@ -12,6 +12,12 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
+    To determine if there is any correlation between the success of a campaign and the time of year that it is released, I created a Pivot Table that would clearly show the number of successful, failed, and canceled campaigns for each month of the year. This Pivot Table had two filters, one being the Parent Category and the other being the year that the campaign was released. Since Louise is interested in funding her play, the Pivot Table could be filtered for the Theatre category only.
+    
+![Screen Shot 2022-10-09 at 10 00 51 PM](https://user-images.githubusercontent.com/112633146/194790426-5a092a09-b438-4821-a9b7-bbe9a19160b9.png)
+
+By simply looking at the numbers, there is an evident increase in successful campaigns in the months of May and June.
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
