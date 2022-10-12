@@ -32,6 +32,8 @@ Since this data is a bit difficult to read, using a visualization technique woul
 
 ![Outcomes Based on Goal](https://user-images.githubusercontent.com/112633146/195213193-77248645-a5cd-4dc0-bc46-929d8a72fb0f.png)
 
+The percentage of successful campaigns is higher than the percentage of failed campaigns until the $15,000 to $19,999 increment, and then the percentage of failed campaigns is higher than that of the successful campaigns. However, the percentage of successful campaigns again surpasses that of failed campaigns for two higher increments. It is important to note that there is not much data at the higher increments of goal funding, so it may not be the most reliable to draw conclusions from the data that are already there. From this analysis, it appears that Louise has a higher chance of a successful campaign until her goal funding passes $15,000.
+
 
 ### Challenges and Difficulties Encountered!
 
@@ -40,9 +42,12 @@ Since this data is a bit difficult to read, using a visualization technique woul
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+    The most evident conclusion to draw from the analysis is that Louise should launch her campaign in the middle of the year because the data show, on average, that those campaigns will have a higher likelihood of success.
+
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
-As we did for the goal funding analysis, I think it would have been helpful to include percentages in the launch date analysis as well. Instead of just looking at the numbers of successful, failed, or canceled campaigns, it is important to look at this numbers relative to each other to get a better sense of the trends of outcomes at different parts in the year. The number of successful campaigns might spike in the middle of the year, but for all we know, the number of failed campaigns might be increasing as well, which would change our analysis.
+
+    As we did for the goal funding analysis, I think it would have been helpful to include percentages in the launch date analysis as well. Instead of just looking at the numbers of successful, failed, or canceled campaigns, it is important to look at this numbers relative to each other to get a better sense of the trends of outcomes at different parts in the year. The number of successful campaigns might spike in the middle of the year, but for all we know, the number of failed campaigns might be increasing as well, which would change our analysis.
