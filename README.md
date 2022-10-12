@@ -35,23 +35,12 @@ Since this data is a bit difficult to read, using a visualization technique woul
 The percentage of successful campaigns is higher than the percentage of failed campaigns until the $15,000 to $19,999 increment, and then the percentage of failed campaigns is higher than that of the successful campaigns. However, the percentage of successful campaigns again surpasses that of failed campaigns for two higher increments. It is important to note that there is not much data at the higher increments of goal funding, so it may not be the most reliable to draw conclusions from the data that are already there. From this analysis, it appears that Louise has a higher chance of a successful campaign until her goal funding passes $15,000.
 
 
-### Challenges and Difficulties Encountered!
-
-
 ## Results
-
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
 
     The most evident conclusion to draw from the analysis is that Louise should launch her campaign in the middle of the year because the data show, on average, that those campaigns will have a higher likelihood of success. Another conclusion to draw from this analysis is that there is a downward trend in number of successful campaigns in the latter half of the year; even though there are still more successful campaigns than failed campaigns, Louise's chance of success becomes incrementally lower for each month in the second half of the year.
 
-- What can you conclude about the Outcomes based on Goals?
-
     Up until $15,000 of goal funding, Louise has a higher chance of having a successful campaign than a failed campaign. If her goal was to have more than $15,000, she should take caution and analyze the other factors that will affect her campaign's outcome. Even though there are trends visible on the graph, the data is very sporadic. The percentage of successful and the percentage of failed campaigns do not show a consistent trend throughout the whole data, so it may be difficult to predict if Louise's campaign will be a success depending on her goal funding.
 
-- What are some limitations of this dataset?
-
     At some points in the analysis, there was not enough data to draw a solid conclusion. For example, there were not many campaigns that had a high amount of goal funding in general, so forming an argument for these data points is hard to do. There might be another factor affecting the campaign's outcome at this point. There is also a missing data point in the launch date analysis; there is no data for the number of canceled campaigns in the month of October. Working with a dataset that has missing datapoints in more complex analyses is difficult because whether or not to include those specific cases is dependent on the analyis. Sometimes, it may be more favorable to remove those cases entirely from the data, or if there is other data easily accessible that can stand in place of the missing data, that might work as well.
-
-- What are some other possible tables and/or graphs that we could create?
 
     As we did for the goal funding analysis, I think it would have been helpful to include percentages in the launch date analysis as well. Instead of just looking at the numbers of successful, failed, or canceled campaigns, it is important to look at this numbers relative to each other to get a better sense of the trends of outcomes at different parts in the year. The number of successful campaigns might spike in the middle of the year, but for all we know, the number of failed campaigns might be increasing as well, which would change our analysis.
